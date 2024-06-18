@@ -1,0 +1,63 @@
+[{
+    "id":1,
+"name":"Story Book",
+"title":"Configure ESM as default, opt-in to CJS if needed",
+"price":0,
+"category":"free",
+"image":"https://img.freepik.com/premium-vector/pile-student-books-icon-illustration-white-background_134830-290.jpg?w=740"
+
+},
+{
+    "id":2,
+"name":"Sports Book",
+"title":"Configure ESM as default, opt-in to CJS if needed",
+"price":100,
+"category":"sports",
+"image":"https://img.freepik.com/premium-vector/pile-student-books-icon-illustration-white-background_134830-290.jpg?w=740"
+
+},
+{
+    "id":3,
+"name":"Science Book",
+"title":"Alice's Adventures in Wonderland",
+"price":500,
+"category":"Science Book",
+"image":"https://img.freepik.com/premium-vector/pile-student-books-icon-illustration-white-background_134830-290.jpg?w=740"
+
+},
+{
+    "id":4,
+"name":"The Adventures of Huckleberry Finn",
+"title":"Configure ESM as default, opt-in to CJS if needed",
+"price":0,
+"category":"free",
+"image":"https://img.freepik.com/premium-vector/pile-student-books-icon-illustration-white-background_134830-290.jpg?w=740"
+
+},
+{
+    "id":5,
+"name":"Story Book",
+"title":"The Scarlet Letter",
+"price":0,
+"category":"free",
+"image":"https://img.freepik.com/premium-vector/pile-student-books-icon-illustration-white-background_134830-290.jpg?w=740"
+
+},
+{
+    "id":6,
+"name":"Story Book",
+"title":"Cat's Cradle",
+"price":0,
+"category":"free",
+"image":"https://img.freepik.com/premium-vector/pile-student-books-icon-illustration-white-background_134830-290.jpg?w=740"
+
+},
+{
+    "id":7,
+"name":"Story Book",
+"title":"Cat's Cradle",
+"price":0,
+"category":"free",
+"image":"https://img.freepik.com/premium-vector/pile-student-books-icon-illustration-white-background_134830-290.jpg?w=740"
+
+}]
